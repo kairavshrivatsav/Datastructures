@@ -43,3 +43,6 @@ class LinkedList():
                 index+=1
                 current=current.next
         return -1
+    
+    def __len__(self):
+        return self.length
