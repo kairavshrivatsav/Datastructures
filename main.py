@@ -8,4 +8,3 @@ ll.tail_insert(30)
 
 
 print(len(ll))
-kuch chutiyaap
